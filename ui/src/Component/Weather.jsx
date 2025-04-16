@@ -23,7 +23,7 @@ console.log(weather)
     <div className="min-h-screen bg-gradient-to-br from-blue-200 to-blue-900 py-8">
     <div className=" max-w-2xl  bg-blue-300 mx-auto shadow-lg rounded-lg">
       <h1 className="text-center font-bold text-blue-500 py-4 text-3xl">
-        WeAtHeR ApP
+        wEAtHeR aPp
       </h1>
 
     <div className='flex gap-2 p-2 '>
